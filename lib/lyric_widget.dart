@@ -62,6 +62,7 @@ class LyricWidget extends StatefulWidget {
     lyricTextPaints.addAll(lyrics
         .map(
           (l) => TextPainter(
+              textAlign: TextAlign.center,
               text: TextSpan(text: l.lyric, style: lyricStyle),
               textDirection: TextDirection.ltr),
         )
