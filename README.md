@@ -4,7 +4,7 @@
 [![pub package](https://img.shields.io/pub/v/flutter_lyric.svg)](https://pub.dartlang.org/packages/flutter_lyric)
 ![GitHub](https://img.shields.io/github/license/ozyl/flutter_lyric.svg)
 
-Music lyric Library .
+Music lyric Library . This is a repo fork from https://github.com/ozyl/flutter_lyric. I cannot use the original repo when pub get in my flutter project because of chinese characters. More details here: https://github.com/dart-lang/pub/issues/2028 
 
 ## Examples运行截图
 
